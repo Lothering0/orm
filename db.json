@@ -1,0 +1,26 @@
+{
+  "user": {
+    "_metadata": {
+      "autoincrements": {
+        "id": 10
+      }
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Amanda",
+        "age": 24
+      },
+      {
+        "id": 2,
+        "name": "Alex",
+        "age": 30
+      },
+      {
+        "id": 3,
+        "name": "John",
+        "age": 12
+      }
+    ]
+  }
+}
